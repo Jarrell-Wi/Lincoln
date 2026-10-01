@@ -1,0 +1,15 @@
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.AssemblyInfoInputs.cache
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.AssemblyInfo.cs
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.csproj.CoreCompileInputs.cache
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.sourcelink.json
+/workspaces/Lincoln/Lab/bin/Debug/net10.0/Lab
+/workspaces/Lincoln/Lab/bin/Debug/net10.0/Lab.deps.json
+/workspaces/Lincoln/Lab/bin/Debug/net10.0/Lab.runtimeconfig.json
+/workspaces/Lincoln/Lab/bin/Debug/net10.0/Lab.dll
+/workspaces/Lincoln/Lab/bin/Debug/net10.0/Lab.pdb
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.dll
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/refint/Lab.dll
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.pdb
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/Lab.genruntimeconfig.cache
+/workspaces/Lincoln/Lab/obj/Debug/net10.0/ref/Lab.dll
