@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab", "Lab\Lab.csproj", "{F15A7B6A-C65C-4A55-9490-BCD8B8E172BB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week7", "Week7", "{53B217E8-5A97-96F2-0CC8-E640E046B942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meh", "Week7\Meh\Meh.csproj", "{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +31,23 @@ Global
 		{F15A7B6A-C65C-4A55-9490-BCD8B8E172BB}.Release|x64.Build.0 = Release|Any CPU
 		{F15A7B6A-C65C-4A55-9490-BCD8B8E172BB}.Release|x86.ActiveCfg = Release|Any CPU
 		{F15A7B6A-C65C-4A55-9490-BCD8B8E172BB}.Release|x86.Build.0 = Release|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Debug|x86.Build.0 = Debug|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Release|x64.Build.0 = Release|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Release|x86.ActiveCfg = Release|Any CPU
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A3857ED-FBB9-4CDE-A1C9-1110B2DA3B56} = {53B217E8-5A97-96F2-0CC8-E640E046B942}
 	EndGlobalSection
 EndGlobal

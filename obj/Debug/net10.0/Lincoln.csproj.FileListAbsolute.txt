@@ -1,0 +1,5 @@
+/workspaces/Lincoln/obj/Debug/net10.0/Lincoln.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lincoln/obj/Debug/net10.0/Lincoln.AssemblyInfoInputs.cache
+/workspaces/Lincoln/obj/Debug/net10.0/Lincoln.AssemblyInfo.cs
+/workspaces/Lincoln/obj/Debug/net10.0/Lincoln.csproj.CoreCompileInputs.cache
+/workspaces/Lincoln/obj/Debug/net10.0/Lincoln.sourcelink.json
